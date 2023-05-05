@@ -1,8 +1,8 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Anjos da Vida: Mais Bravos Que o Mar (2006)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=nS6YrMYn_Rs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Anjos da Vida: Mais Bravos Que o Mar[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=nS6YrMYn_Rs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Anjos da Vida: Mais Bravos Que o Mar[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a6df8008eabeec7548f822c926b79351e965298$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - FHD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Anjos.da.Vida-Mais.Bravos.que.o.Mar.2006.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Anjos da Vida: Mais Bravos Que o Mar - HD DUB[/B][/COLOR]</link>				
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>
 <title>[B][COLOR white]As Duas Faces de um Crime (1996)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=AX4gmDNPVO8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=AX4gmDNPVO8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54f98afd18644eeb701cd383f89a41f2530bdb94$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70fde3e6d1785a8a1419a9e5132fb6a2b77ca39c$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - FHD LEG[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-As.Duas.Faces.de.um.Crime.1996.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Duas Faces de um Crime - FHD DUAL+LEG[/B][/COLOR]</link>
@@ -43,7 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]As Cores da Violência (1988)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=eR6xGATmlEg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Cores da Violencia[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=eR6xGATmlEg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]As Cores da Violencia[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Colors.As.Cores.da.Vioencia.1988.SD.DUB.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]As Cores da Violencia - SD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/noQ6eThDus47ubpGuTfdIIeApkQ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/40RabedoPCxtGzLVYlIXrhcAuFh.jpg</fanart>
@@ -73,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Cabo do Medo (1991)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=mPsOIhZJug4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cabo do Medo[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=mPsOIhZJug4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cabo do Medo[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a12436579a7bba05c7a51b759289386b8a651d66$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cabo do Medo - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:078d1e2774742785fca265b5cec0198c2b8076ec$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cabo do Medo - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Cape.Fear.1991.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cabo do Medo - FHD DUAL[/B][/COLOR]</link>				
@@ -86,7 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Cowboy do Asfalto (1980)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=xVwBBBW5dRw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cowboy do Asfalto[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=xVwBBBW5dRw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cowboy do Asfalto[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Cowboy.do.Asfalto.1980FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cowboy do Asfalto - FHD DUAL[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8UWCNRXWkcqZtgfo8jfJe3IG9bH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AbnMaKlZaKniC302tFHDa9OCLd0.jpg</fanart>
@@ -118,7 +118,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Elvis (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=XpU9J2oL0GE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Elvis[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=XpU9J2oL0GE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Elvis[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79e2e688ab760d52450758bc97541b96344596cd$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Elvis - FHD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd048c97d2081f5a3dec4ce8e21836b069a8413e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Elvis - FHD DUAL[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5178bc42171be6cb6c2b9db76e7dfded2615974$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Elvis - UFHD 4K DUAL[/B][/COLOR]</link>
@@ -132,7 +132,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Entre Facas e Segredos (2019)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=w8GBFvqP1cM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Entre Facas e Segredos[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=w8GBFvqP1cM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Entre Facas e Segredos[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79258212464ca724270fb4c8df5116de4039339e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Entre Facas e Segredos - HD LEG[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f0ab507fca4df3ce8b700e41cca2f578721cc8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Entre Facas e Segredos - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Entre.Facas.e.Segredos.2019.FHD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Entre Facas e Segredos - FHD DUB[/B][/COLOR]</link>				
@@ -145,7 +145,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Era Uma Vez na América (1984)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Ck4UXtTa-9U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Era Uma Vez na America[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=Ck4UXtTa-9U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Era Uma Vez na America[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6C51FDB149B432919FC402DC4C94FF1478C19E09$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Era Uma Vez na America - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Era.uma.Vez.na.America.1984.FHD.DUAL+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Era Uma Vez na America - FHD DUAL+LEG[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8E2lZjt28MR6Dzc3QOiVzM8PvXU.jpg</thumbnail>
@@ -157,7 +157,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Estrada Sem Lei (2019)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=aH6vC-BBKOc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Estrada Sem Lei[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=aH6vC-BBKOc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Estrada Sem Lei[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9b4f71c232689599923f0af7d0276829aef1884$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estrada Sem Lei - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05e2beab63c9ab043288c2bb54a082e29fc3597b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estrada Sem Lei - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Estrada.sem.Lei.2019.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Estrada Sem Lei - FHD DUB[/B][/COLOR]</link>				
@@ -174,7 +174,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Faroeste Caboclo (2013)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=4azYkNkPtJg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Faroeste Caboclo[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=4azYkNkPtJg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Faroeste Caboclo[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e42e1e090ad4e19d5b098f1f450691162593ca36$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Faroeste Caboclo - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b0ba2a5261dba2224da6ef5b17e63cbfa2588d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Faroeste Caboclo - FHD DUB[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Faroeste.Caboclo.2013.HD.dub.mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Faroeste Caboclo - HD DUB[/B][/COLOR]</link>				
@@ -187,7 +187,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Fogo Contra Fogo (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=0xbBLJ1WGwQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fogo Contra Fogo[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=0xbBLJ1WGwQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Fogo Contra Fogo[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6c127e066a8c115026ed3ca7fa9844f1bb08a37$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a29c40433798d7100ea06b5289fb4b31ec5d47$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Fogo.Contra.Fogo.1995.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Fogo Contra Fogo - FHD DUB[/B][/COLOR]</link>				
@@ -212,7 +212,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Império do Crime (1991)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=If3aoYJeVTU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Imperio do Crime[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=If3aoYJeVTU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Imperio do Crime[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Imperio.do.Crime.1991.FHD.DUB+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Imperio do Crime - FHD DUAL[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8pp91WBWeEHogSJbgTtjz2jjkRh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mA9W30ULHSq4EEOaPygxOxBYMy8.jpg</fanart>
@@ -223,7 +223,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Inimigos Públicos (2009)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=HbHWtHVEmU0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Inimigos Publicos[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=HbHWtHVEmU0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Inimigos Publicos[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6eb3f32e1d40b1d42a0b366dd893f9240ad828d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Inimigos Publicos - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c535d0acbc9ac385e2331324252b361fd588855$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Inimigos Publicos - FHD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Inimigos.Publicos.2009.HD.DUAL-LFX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Inimigos Publicos - FHD DUAL LEG FIX[/B][/COLOR]</link>				
@@ -274,7 +274,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Marcas de Batom (1992)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=fmYw5JZ-6LM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Marcas de Batom[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=fmYw5JZ-6LM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Marcas de Batom[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Marcas.de.Batom.1992.SD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Marcas de Batom - FHD DUAL[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2CAMutFQsJ659K8lB6YIqfGR7T3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/oZWJAHTYzM5sRNptmZXyIffzK6h.jpg</fanart>
@@ -285,7 +285,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Morte no Nilo (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=n68V31FA4xw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Morte no Nilo[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=n68V31FA4xw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Morte no Nilo[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a02c2f145111547ceefe7f5ccc500f42c60d95$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Morte no Nilo - HD LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7hp6jw7wm75yaoaz4xkpamefjgpjteav$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Morte no Nilo - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Morte.no.Nilo.2022.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Morte no Nilo - FHD DUAL+LEG[/B][/COLOR]</link>
@@ -341,7 +341,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]O Ilusionista (2006)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=oT1pMakQPW0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ilusionista[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=oT1pMakQPW0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ilusionista[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3000f0ef5dc20cd116d6314b149e4bbca67ac6$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ilusionista - HD DUB[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b674678015d8cd6c4100f41ac72ba39dc7f587d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ilusionista - HD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Ilusionista.2006.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ilusionista - FHD DUB[/B][/COLOR]</link>				
@@ -354,7 +354,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]O Último Matador (1996)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=6tkvgAv7LNc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Matador[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=6tkvgAv7LNc$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Matador[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25671d17f26ba50ba383ea5513e3f11942340205$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:081d71c8fb3294f0ec511e136463f2bcd29253e8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD LEG[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Ultimo.Matador.1996.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ultimo Matador - HD DUB[/B][/COLOR]</link>				
@@ -367,7 +367,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[B][COLOR white]O Violino do Meu Pai (2022)[/COLOR][/B]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=N_9h5WPMzP8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Violino do Meu Pai[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=N_9h5WPMzP8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Violino do Meu Pai[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1886a18fbccfc9966f788bddc3e8f3bddd5da3be$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Violino do Meu Pai - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-O.Violino.do.Meu%20Pai.2022%20FDH.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Violino do Meu Pai - FHD DUAL[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/mXYhKwUdHEZqwHNLP5DnrIFTAj2.jpg</thumbnail>				
@@ -421,7 +421,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <item>				
 <title>[COLOR white][B]Tempo Esgotado (1995)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=DAj4NRw3IeY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tempo Esgotado[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=DAj4NRw3IeY$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tempo Esgotado[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Tempo.Esgotado.1995.SD.DUB.ts$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Tempo Esgotado - SD DUB[/B][/COLOR]</link>				
 <thumbnail>https://www.themoviedb.org/t/p/original/vB7zrVslVgGPEqKXh8Q4qVRdqbN.jpg</thumbnail>				
 <fanart>https://www.themoviedb.org/t/p/original/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg</fanart>				
@@ -444,7 +444,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>				
 <title>[COLOR white][B]Titanic (1997)[/B][/COLOR]</title>				
-<link>plugin://plugin.video.youtube/play/?video_id=0uWkF-gz7jI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Titanic[/B][/COLOR]</link>				
+<link>plugin://plugin.video.tubemusic/?video_id=0uWkF-gz7jI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Titanic[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Titanic - HD DUAL[/B][/COLOR]</link>				
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0804d193020861dc018ddcefb81ecb9129a3c14e$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Titanic - FHD DUAL[/B][/COLOR]</link>				
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Titanic.1997.FHD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Titanic - FHD DUB[/B][/COLOR]</link>				
@@ -457,7 +457,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Treze Vidas: O Resgate (2022)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9yPS2zU2CWg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Treze VidaS - O Resgate[/B][/COLOR]</link>
+<link>plugin://plugin.video.tubemusic/?video_id=9yPS2zU2CWg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Treze VidaS - O Resgate[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05c32469faba40e5a15d10f8c7938710f8ae89e9$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Treze VidaS - O Resgate - FHD DUAL[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-Treze.Vidas.O.Resgate.2022%20FHD.DUAL.+LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Treze VidaS - O Resgate - FHD DUAL[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8sO4gjzLhxndxLtMrohGV2DD2Rw.jpg</thumbnail>
@@ -509,30 +509,30 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 <item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
