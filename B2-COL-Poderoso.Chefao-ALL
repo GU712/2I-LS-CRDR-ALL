@@ -1,16 +1,16 @@
-<item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 	
 <item>	
 <title>[COLOR white][B] O Poderoso Chefão (1972) [/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=SEPtyESN2Zw&t=60s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=SEPtyESN2Zw&t=60s$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c34911e5ca4518978719cfef123e204ec7905edd$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao - HD DUB[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e915039c619366e490d08db3ffed21f3a3ae84a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao - FHD LEG[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-CL/O.Pod.Chefao/LS-O.Poderoso.Chefao.1-1972.HD.Dual.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Poderoso Chefao - HD DUB[/B][/COLOR]</link>	
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]O Poderoso Chefão 2 (1974)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=FLbWXkka9wU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao 2[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=FLbWXkka9wU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao 2[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fad811eff971b3bc2fff1219e1052ee2b3c6ec$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - HD DUB [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9124fe9a99b2001fad76a76152691bc515a80d$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - FHD LEG[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-CL/O.Pod.Chefao/LS-O.Poderoso.Chefao.2-1974.HD.Dual.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Poderoso Chefao 2 - HD DUB[/B][/COLOR]</link>	
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <item>	
 <title>[COLOR white][B]O Poderoso Chefão 3 (1990)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=V_qHJoL9yYk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao 3[/B][/COLOR]</link>	
+<link>plugin://plugin.video.tubemusic/?video_id=V_qHJoL9yYk$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Poderoso Chefao 3[/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55db73f1684502b45e934b749fefc94acbc523bb$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - HD DUAL [/B][/COLOR]</link>	
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b9837b116727ff698d2743c0b4a869a2e1c281$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - FHD DUAL[/B][/COLOR]</link>	
 <link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/9CRDR-CL/O.Pod.Chefao/LS-O.Poderoso.Chefao.3-1990.HD.Dual..mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Poderoso Chefao 3 - HD DUB[/B][/COLOR]</link>	
@@ -47,24 +47,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 	
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
