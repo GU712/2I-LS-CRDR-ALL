@@ -6,46 +6,17 @@
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>																																	
 </item>																																	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
-																																	
-<item>																																	
-<name>[COLOR white][B]Round 6 (2021)[/B][/COLOR]</name>																																	
-<thumbnail>https://www.themoviedb.org/t/p/original/6gcHdboppvplmBWxvROc96NJnmm.jpg</thumbnail>																																	
-<fanart>https://www.themoviedb.org/t/p/original/qw3J9cNeLioOLoR68WX7z79aCdK.jpg</fanart>																																	
-<info>Assista aqui os episódios da série Round 6.																																	
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]																																	
-[COLOR orange][B]ANO - 2021[/B][/COLOR]																																	
-[COLOR orange][B]01 TEMP  - 09 EPs[/B][/COLOR]																																	
-</info>																																	
-</item>																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
-																																	
+
 <item>																																	
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Round 6[/B][/COLOR]</title>																																	
-<link>plugin://plugin.video.youtube/play/?video_id=cuKAvzAr9IU</link>																																	
+<link>plugin://plugin.video.tubemusic/?video_id=cuKAvzAr9IU</link>																																	
 <thumbnail>https://www.themoviedb.org/t/p/original/6gcHdboppvplmBWxvROc96NJnmm.jpg</thumbnail>																																	
 <fanart>https://www.themoviedb.org/t/p/original/qw3J9cNeLioOLoR68WX7z79aCdK.jpg</fanart>																																	
 <info>Assista ao trailer</info>																																	
 <genre>CRIME E DRAMA</genre> 																																	
 </item>																																	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
-																																	
-<item>																																	
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Round 6 (2021)[/B][/COLOR]</title>																																	
-																																	
-<link>plugin://plugin.video.youtube/play/?video_id=cuKAvzAr9IU$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Round 6[/B][/COLOR]</link>																																	
-																																	
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 09 EPs - DUB[/B][/COLOR]</link>																																	
-																																	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f56c72bf3b459d3f21c8491584b0845e18bc97b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]COMPLETA - HD DUAL[/B][/COLOR]</link>																																	
-																																	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146316439516089335a8f6956b4c631737ea720b$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]COMPLETA - FHD DUAL[/B][/COLOR]</link>																																	
-																																	
-<thumbnail>https://www.themoviedb.org/t/p/original/6gcHdboppvplmBWxvROc96NJnmm.jpg</thumbnail>																																	
-<fanart>https://www.themoviedb.org/t/p/original/qw3J9cNeLioOLoR68WX7z79aCdK.jpg</fanart>																																	
-<info>Centenas de jogadores falidos aceitam um estranho convite para um jogo de sobrevivência. Um prêmio milionário aguarda, mas as apostas são altas e mortais.</info>																																	
-<genre>CRIME E DRAMA</genre>  																																	
-</item>																																	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
+																																																																																																			
 																																	
 <item>																																	
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Round 6 (2021)[/B][/COLOR]</title>																																	
@@ -72,26 +43,36 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
 																																	
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																	
-																																	
+									
+
+
+
