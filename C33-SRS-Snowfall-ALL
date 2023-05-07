@@ -1,12 +1,12 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <item>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Snowfall[/B][/COLOR]</title>
@@ -263,39 +263,330 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>				
+<item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>				
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>				
-<title>[COLOR orange][B]SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
 <link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>NOLINK</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Snowfall[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=PmKgACCJtL8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ox67NV3aOCSFHialy9MCtHtCi2l.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>CRIME E DRAMA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Snowfall (2017) - T01 - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B890EB32377E477D790B37C5FCC03F0AA1D4F81C$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6CDE227E1B21A83490E7E1E32911A1A6A3680AE8$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Fasa-os Passaros Voarem [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5CE341F28792F120FEB4B477B39A094C261876DF$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Mao Lenta [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFBCA8DF30A6106241E32448097F4EA1392B671D$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Trauma [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a81da0ed789aede4e74983fdb19580018c5ca79$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Sete E Quatro [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ceb2f6b86589d03483653b501816eb0eea7b835$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Um Longo Tempo Chegando [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1214F8268320252136FC6521163D5412DE7DB06$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quebrando [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A676032A1B052A423F5D68948CD1256584B584A8$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Dentes De Bebe [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A676032A1B052A423F5D68948CD1256584B584A8$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Historia De Uma Cicatriz [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A676032A1B052A423F5D68948CD1256584B584A8$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Rubicao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/xeSNi6T65ODCUDWOLnI1OJ6RPDp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Snowfall (2018) - T02 - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 10 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XYNIMR6WJ7VSZIMQJ3MLJCAGSE4OCNQH$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Linhas De Visao [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ENSKW4GWQ6XVK3HBT2JAG462PJNQN62U$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Dia [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WWRVMBPLQP2LAEKCO6QXTS4EOOG2JTP5$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Prometeu Ascendente [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7I74MAKNTCZYMGMFP432UJ4Z6AQ4OKMU$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rock Jingle Bell [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CMMTAZEVUFVUBRV423PMY4SDI3UCZAWD$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Serpente [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PKJYIBPI5JBUAPD3QO4QGDTNTHWM5D3I$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Oferta [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSLO7ABOVW2K3ANRAJUOBCIGU7V56XXP$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Mundo e Seu [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V7GDT2KCFVG55OCDEPNVC5MXL4SHUJYI$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Render [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V7GDT2KCFVG55OCDEPNVC5MXL4SHUJYI$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Resultado [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKO4RWGL465R636OVV4EQD3Y3LUKZEWM$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Educasao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/2urnaBtljmz6pMixQlYbuwfD6ak.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Snowfall (2019) - T03 - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 10 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6LPYFJQ4VGNXBKKHZRJZ3UPVBO75VPND$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Proteger E Desviar [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6LPYFJQ4VGNXBKKHZRJZ3UPVBO75VPND$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Quanto Mais Voce Faz [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ADJE4RWJTQHM5QBQPMIXPKPMF5X4NRP$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Dinheiro e Transporte [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ADJE4RWJTQHM5QBQPMIXPKPMF5X4NRP$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Jogo Que Se Move Conforme Voce Joga [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C7MKY7TYRBGPNT2HZI44IY2RGUSY35W$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Os Fundos [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5O2VLQREENSBF3CQP6IFEIYCB3KFMJVN$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Confissoes [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YUGX7GHHE5JLZTGHJJFHAZD5N7CQJJER$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Bolso Cheio De Pedras [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SINNQSWPWE3W4MMNEJ34TR5EVCOJMUTP$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Ourisos [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VIL3MF3GNSLDAQOQV2UCONN4XFMMXHEZ$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Queda De Energia [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b08d9ce6b86e19d4b5a3aaa4f74f2557dfa220e5$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Outras Vidas - LEG[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/aCVpveBk2DHixL88XBVQnY89iB7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Snowfall (2021) - T04 - HD LEG[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 10 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ff7219c2be23e756e2738e548daa840326fc2d$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Reentrada [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c66bffe625fe73084520f26a3b40108c9572ccc9$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Peso [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5a497906404a1244943e9a81793fca011a483d3$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Todo O Caminho Para Baixo [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a28666f6655aba318fd3f951f1f842dd7fedff36$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Expansao [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1744cc30844b09866bdc2401ac0038f61168f245$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Volta [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d53d3b775a4eedab13dc080ba184be80e7e0c1b$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Fasa Uma Pequena Prece [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b368314f23f2cb5873ce854421060a43f3219cc9$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Atraves De Um Vidro, Sombriamente [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b659f139f95b2107d33c40259281a375c908702$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Traisao [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2edda193c56a41ce295ba7e5dc78efe7b3597e9a$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Caes Adormecidos [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d83ed23dbace2225d53737e1b5a069c3ab266fb5$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Lutar Ou Fugir [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/orvFrLzqSeW5qTFpfJEbPfHRPWg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Snowfall (2022) - T05 - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oqaDHgXZtxYTaxzC07OTlSLh0P6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Snowfall (2022) - T05 - HD LEG[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 10 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a33559c58c2042c178e7afc6dfdeb34e5f7df98$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Cometas [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15396a09787a4c9d3d81770714db6fb893d1ecb7$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Comprometimento [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a682dfde272370dfe2a72495852f20624474685$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Leoes [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f145497092791cf60ef78f13fc8d0ec63ad8bbd1$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Revolusoes [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94bbe845fcba87dade8f5edfdb394fb20f03a8e3$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Iliada (Parte 1) [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b81753501bac8bb17b1121e923176f82a02f038$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Iliada (Parte 2) [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f378063c77e02b9f3afbbf1ea4c6acda7922a937$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Deitado Em Uma Rede [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2b9b4fd1e4306bab197060be36f0514f102b9b3$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Celebrasao [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3b4a761118d020d022a5ed93158555fa864f19c$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Partidas [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4c448ff708d003670c234586306e97f0bd4a768$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Linhas De Falha [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/oqaDHgXZtxYTaxzC07OTlSLh0P6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERVER LS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Snowfall (2017) - T01 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Fasa-os Passaros Voarem [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Mao Lenta [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Trauma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Sete E Quatro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Um Longo Tempo Chegando [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quebrando [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Dentes De Bebe [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Historia De Uma Cicatriz [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Rubicao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/xeSNi6T65ODCUDWOLnI1OJ6RPDp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Snowfall (2018) - T02 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 10 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Linhas De Visao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O Dia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Prometeu Ascendente [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Rock Jingle Bell [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Serpente [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Oferta [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Mundo e Seu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Render [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Resultado [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T02/LS-T02E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Educasao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/2urnaBtljmz6pMixQlYbuwfD6ak.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Snowfall (2019) - T03 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 10 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Proteger E Desviar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Quanto Mais Voce Faz [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Dinheiro e Transporte [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Jogo Que Se Move Conforme Voce Joga [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Os Fundos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Confissoes [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Bolso Cheio De Pedras [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Ourisos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Queda De Energia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T03/LS-T03E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Outras Vidas [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/aCVpveBk2DHixL88XBVQnY89iB7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Snowfall (2021) - T04 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 10 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Reentrada [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Peso [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Todo O Caminho Para Baixo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Expansao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Volta [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Fasa Uma Pequena Prece [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Atraves De Um Vidro, Sombriamente [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Traisao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Caes Adormecidos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Snowfall/T04/LS-T04E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Lutar Ou Fugir [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/orvFrLzqSeW5qTFpfJEbPfHRPWg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Snowfall (2022) - T05 - HD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 10 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/oqaDHgXZtxYTaxzC07OTlSLh0P6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uyw71SmdluO7IfBSVIZhpzI2S82.jpg</fanart>
+<info>As desventuras de Franklin Saint , traficante, Gustavo Zapata , gangster e Logan Miller. Na epidemia de cocaína que abalou os Estados Unidos.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
