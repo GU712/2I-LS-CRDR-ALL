@@ -16,13 +16,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/A-LS-FLM-CRDR-ALL</externallink>
 <thumbnail>https://i.ibb.co/pWxK8fP/CRM-DRM-FLM-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/QH2wgtB/CRM-DRM-FAN-ALL.png</fanart>
-<info>OS MELHORES FILMES DE CRIME E DRAMA ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES DE CRIME E DRAMA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]AÇÃO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -30,13 +34,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B-LS-COL-CRDR-ALL</externallink>
 <thumbnail>https://i.ibb.co/THQyTqN/CRM-DRM-COL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/QH2wgtB/CRM-DRM-FAN-ALL.png</fanart>
-<info>AS MELHORES COLEÇÕES DE FILMES ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
+<info>[COLOR white]Conheça a seção: 
+[B]COLEÇÕES DE FILMES DE CRIME E DRAMA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]AÇÃO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -44,17 +52,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C-LS-SRS-CRDR-ALL</externallink>
 <thumbnail>https://i.ibb.co/n8pNFhS/CRM-DRM-SRS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/QH2wgtB/CRM-DRM-FAN-ALL.png</fanart>
-<info>AS MELHORES SÉRIES DE CRIME E DRAMA ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES DE CRIME E DRAMA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]AÇÃO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/1-LS-SEL-CRDR-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -64,7 +77,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/1-LS-SEL-CRDR-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
