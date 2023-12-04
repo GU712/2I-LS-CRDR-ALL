@@ -1,86 +1,155 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-			
-<item>			
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]CSI: Vegas[/B][/COLOR]</title>			
-<link>plugin://plugin.video.tubemusic/?video_id=mc-YZ7oUF2s</link>			
-<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
-<info>Assista ao trailer</info>			
-<genre>GENERO</genre> 			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-TORRENTS			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-item>			
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]CSI: Vegas (DATA) - FHD DUAL[/B][/COLOR]</title>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>			
-<thumbnail><CAPADASERIE></thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
-<info><SINOPSE></info>			
-<genre>GENERO</genre>			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-item>			
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]CSI: Vegas (2021) - HD LEG FIX[/B][/COLOR]</title>			
-			
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
-			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-			
-<thumbnail><CAPADASERIE></thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
-<info><SINOPSE></info>			
-<genre>GENERO</genre>			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-SERVER LS			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-<item>			
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]CSI: Vegas (2021) - T01 - HD LEG FIX[/B][/COLOR]</title>			
-			
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
-			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Legado [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Lua de mel em Vegas [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Sob a pele [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Porco Grande [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Deixe as fichas cairem [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Casa de diversoes [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]No Sangue [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Limpador de tubulasoes [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Esperando nas asas [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Assinado selado entregue [/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/original/2GizU90UuGrO8LKsjgVZtgF14bK.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>			
-<info>A ameaça que pode derrubar o Laboratório Criminal, a nova equipe de investigadores  deve receber de volta velhos amigos e implantar novas técnicas para servir à justiça.</info>			
-<genre>CRIME E DRAMA</genre>			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-			
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2021) 10 EPs - HD LEG FIX[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Legado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Lua De Mel Em Vegas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Sob A Pele[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Porco Longo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Deixe As Fichas Caírem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Casa De Diversão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]No Sangue[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Limpador De Tubulações[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Esperando Nas Asas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Assinado Selado Entregue[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/CSI.Vegas/T01/LS-T01E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 02 (2022) 21 EPs - HD LEG FIX[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Ela Se Foi[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E01.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]O Homem Pintado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E02.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]História De Uma Arma[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E03.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Coala[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E04.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]No Caminho Do Dano[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E05.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Eis O Problema[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E06.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Queimado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E07.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Nota Graciosa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E08.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Na Sala Branca[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E09.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Globos Oculares[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E10.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]Bugiganga[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E11.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Quando a Poeira Baixar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E12.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Desossado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E13.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Terceira Vez É O Charme[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E14.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Cinzas, Cinzas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E15.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Todos Nós Caímos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E16.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]A Promessa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E17.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Fraturado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E18.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E19[COLOR yellow] -> [COLOR white]Memórias Mortas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E19.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E20[COLOR yellow] -> [COLOR white]Jogo Da Concha[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E20.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E21[COLOR yellow] -> [COLOR white]Palavras Moribundas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/A-DRV-1/SRS/9-CRDR/CSI.Vegas/T02/LS-T02E21.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/x4bVG8GvM2kDN0ikQ77aFhiE5zE.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -101,8 +170,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -110,4 +178,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-		
