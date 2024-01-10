@@ -62,17 +62,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Bela e a Fera (1987-1989) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C40-SRS-A.Bela.e.a.Fera.1987-ALL</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (2012-2016) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9B2-SRS-A.Bela.e.a.Fera.2012-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/gAhKTNCLSInPeJgweYCv21VlmVA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9SrsT4qw7UVodI20SMYyfGHoGKz.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]A Bela e a Fera
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 70 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante uma investigação, a detetive Catherine Chandler acaba reencontrando Vincent Keller, um homem que a salvou de um ataque anos antes. Mas agora Keller sofre de uma doença que o transforma em monstro quando se irrita.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Bela e a Fera (1987-1989) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B9B1-SRS-A.Bela.e.a.Fera.1987-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/vpSiTl7U1NKdDHroFUqCBQgqd2q.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mUve0t93bhQyjbpH8JBtIbnHR6V.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]A Bela e a Fera
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 1987 a 1989
-[COLOR orange]CRIME E DRAMA
-[COLOR orange]03 TEMPs - 56 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] De alguma forma, eles querem fazer seu amor funcionar. Nenhum deles sabe como, mas eles são determinados e se recusam a desistir.
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1987 a 1989
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 56 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Catherine é uma mulher rica que pensa que sua vida não tem significado além de qualquer coisa superficial. Vincent é de um mundo diferente. Ele mora abaixo da cidade em túneis que foram esquecidos. Ele deve ficar oculto por causa de sua aparência.
 [/COLOR]</info>
 </channel>
 </channels>
