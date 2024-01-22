@@ -351,14 +351,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR white][B]FBI (2018-2021) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]FBI (2018-2022) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C4-SRS-FBI-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/psaUyUQNBZHH1KxZvOxvt7ArAfj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/h5t16ED4wClAHLcvHOYXdP61NAZ.jpg</fanart>
-<info>Assista aqui a série FBI. 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 56 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2018 a 2021[/B][/COLOR]</info>
+<thumbnail>https://image.tmdb.org/t/p/original/cIaB4MiiyvOZzXSFAsVek7A1wfZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/12p2lBznSSnGFPs6Xiami2YnzQc.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Nomealvo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 107 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
