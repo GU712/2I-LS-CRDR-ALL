@@ -116,6 +116,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Agatha Christie's Poirot (1989-2013) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D3B1-SRS-A.C.Poirot-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/KX69tBuobsjtr9ea1J5OxtvIV1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yEneRBaVdyyuF6wghXRKcvhofzU.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Agatha Christie's Poirot
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white](1989-2013)
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]00 TEMPs - 000 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Baseado na obra de Agatha Christie, a série acompanha as aventuras do detetive belga Hercule Poirot, que tenta desvendar casos de misteriosos assassinatos.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Arquivo Morto (2003-2009) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C21-SRS-Cold.Case-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg</thumbnail>
