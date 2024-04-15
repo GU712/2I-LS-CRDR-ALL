@@ -30,6 +30,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C-LS-SRS-CRDR-ALL</externallink>
+<thumbnail>https://i.ibb.co/n8pNFhS/CRM-DRM-SRS-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/QH2wgtB/CRM-DRM-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]SÉRIES DE CRIME E DRAMA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B-LS-COL-CRDR-ALL</externallink>
 <thumbnail>https://i.ibb.co/THQyTqN/CRM-DRM-COL-ALL.png</thumbnail>
@@ -48,12 +66,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C-LS-SRS-CRDR-ALL</externallink>
-<thumbnail>https://i.ibb.co/n8pNFhS/CRM-DRM-SRS-ALL.png</thumbnail>
+<name>[COLOR white][B]COLEÇÕES ESPECIAIS DE CRIME E DRAMA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D-COL-ESP-CRDR-ALL</externallink>
+<thumbnail>https://i.ibb.co/THQyTqN/CRM-DRM-COL-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/QH2wgtB/CRM-DRM-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a seção: 
-[B]SÉRIES DE CRIME E DRAMA
+[B]COLEÇÕES ESPECIAIS DE CRIME E DRAMA
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Uma seção que envolve dois gêneros com histórias de cunho dramático com situações criminosas ou do cotidiano humano, em narrativas envolventes mas dolorosas com seus envolvidos.
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
