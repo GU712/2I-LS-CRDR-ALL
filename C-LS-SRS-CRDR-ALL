@@ -315,14 +315,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CSI: Nova York (2004-2012)[/B] - COMPLETA[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C23-SRS-CSI.Nova.York-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/28zP1oyg1C8CeFXmEcOcLkSUMQ7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xwhp6vi30tOYnMcsHaIEbloLkH3.jpg</fanart>
-<info>Assista a série CSI: Nova York. 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]09 TEMPS - 197  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2004 a 2012[/B][/COLOR]</info>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white] CSI: Nova York (2004-2012) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B3-SRS-CSI.Nova.York-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/wqHHb4II4RuIuiaV0UGCtJchqlF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7Ll51O5WbDLI8PHke6f78KU1PPP.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B] CSI: Nova York
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2012
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 197 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Nova York, os detetives Mac Taylor e Jo Danville lideram uma equipe que usa alta tecnologia para resolver casos de homicídio. Eles sabem que as pessoas podem mentir, mas as evidências não.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
