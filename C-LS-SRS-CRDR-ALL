@@ -193,7 +193,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
+	
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chicago Fire: Heróis Contra o Fogo (2020-2024) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C49-SRS-Chicago.Fire.2012-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/isGOE0UhmUqpfXJtV2trdXeXGl8.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Chicago Fire: Heróis Contra o Fogo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2020 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]12 TEMPs - 252 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Departamento de Bombeiros de Chicago e paramédicos do Quartel 51. A equipe composta por bombeiros, equipe de resgate e paramédicos, irá passar por situações tensas e delicadas, arriscando suas próprias vidas para salvar pessoas em perigo.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
 <channels>
 <channel>
 <name>[COLOR white][B]Cidade Invisível (2021) - ATUALIZANDO[/B][/COLOR]</name>
