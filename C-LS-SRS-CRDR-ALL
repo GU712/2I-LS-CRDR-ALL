@@ -196,7 +196,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chicago Fire: Heróis Contra o Fogo (2020-2024) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chicago Fire: Heróis Contra o Fogo (2012-2024) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C49-SRS-Chicago.Fire.2012-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/isGOE0UhmUqpfXJtV2trdXeXGl8.jpg</fanart>
@@ -270,14 +270,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Coroner (2019-2022) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Coroner (2019-2022) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C14-SRS-Coroner-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/xpc6lb41T1ctPTPiYdLMITEiveE.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5aW0eHMdaJ4AoxRWKOjxgytaqmg.jpg</fanart>
-<info>Assista a série Coroner. 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]04 TEMPS - 26 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2019 a 2022[/B][/COLOR]</info>
+<thumbnail>https://image.tmdb.org/t/p/original/xpc6lb41T1ctPTPiYdLMITEiveE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7iyJEhCSaesEkmHfy0JLZpjxpjO.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Coroner
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 38 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma médica legista recém-contratada investiga uma série de misteriosas mortes em Toronto.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
