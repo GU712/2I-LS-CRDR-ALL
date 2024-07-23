@@ -538,7 +538,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Justiça (2016) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C52-SRS-Justisa.2016-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/2Jit3hR4CY4LrU06fiLdF0L7SPS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dY24bRRqvSjOacyV127z35j2gKv.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Justiça
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 20 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Traição, desejo de vingança, assassinatos e armações são alguns dos temas de quatro histórias nas quais há sempre um dilema moral envolvido.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "K"				
@@ -1007,7 +1025,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]The Rookie (2018-2024) - INCOMPLETA - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS5[COLOR yellow] -> [COLOR white]The Rookie (2018-2024) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C51-SRS-The.Rookie.2018-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/iCf0II8ueZa47fiaVhdgmGdvaCC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zjtcZVj62ZEYVSXUOeF3McuWqxy.jpg</fanart>
