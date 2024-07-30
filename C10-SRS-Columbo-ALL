@@ -8,12 +8,21 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 item>	
-<title>[COLOR orange][B]FILMES - EPISÓDIOS ESPECIAIS[/B][/COLOR]</title>	
+<title>[COLOR orange][B]EPISÓDIOS ESPECIAIS[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail><CAPACOLESPFLM></thumbnail>				
+<thumbnail>https://image.tmdb.org/t/p/original/7rp2d6lsKdfS8AdIyV37p1qwRJ1.jpg</thumbnail>				
 <fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart>		
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
 </item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item><title>[COLOR orange][B]LS-T00E01[COLOR yellow] -> [COLOR white]Formula para Matar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7rp2d6lsKdfS8AdIyV37p1qwRJ1.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
+
+item><title>[COLOR orange][B]LS-T00E02[COLOR yellow] -> [COLOR white]Resgate para Um Morto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/FLM/LS-Resgate.Para.Um.Morto.SD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7rp2d6lsKdfS8AdIyV37p1qwRJ1.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>	
@@ -27,43 +36,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 01 (1971) 08 EPs - FHD HD DUB DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 01 (1971) 07 EPs - SD DUAL+LEG[/B][/COLOR]</title>
 <link>NOLINK</link>	
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Formula para Matar[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Assassinato Segundo o Livro[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E01.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Resgate para Um Morto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]A morte dá uma Ajuda[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E02.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Um Crime Quase Perfeito[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Peso Morto[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E03.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]A Morte Da uma Ajuda[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Trama Perfeita[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E04.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Peso Morto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Uma Estranha Mulher[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E05.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Trama Perfeita[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Pavio Curto[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E06.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Pavio curto[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Assassinato na Planta[/B][/COLOR]</title>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
-
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Assassinato na Planta[/B][/COLOR]</title>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/Columbo/T01/LS-T01E08.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/9O7rjHpYgcoat3h4fBnoW1XRAAR.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
