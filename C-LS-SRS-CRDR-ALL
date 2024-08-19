@@ -30,14 +30,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]9-1-1 (2018-2021) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]9-1-1 (2018-2024) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C13-SRS-911-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/emMBo1uleVPg5ksWNX74FYDOWPa.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>Assista a série 9-1-1. 
-[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
-[COLOR orange][B]05 TEMPS - 70 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2018 a 2021[/B][/COLOR]</info>
+<thumbnail>https://image.tmdb.org/t/p/original/vHq6VlLijLppMPFXhWo3hqjYY8q.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]9-1-1
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 106 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
