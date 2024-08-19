@@ -1,219 +1,460 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
+<item>	
+<title>[COLOR orange][B]9-1-1[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/vHq6VlLijLppMPFXhWo3hqjYY8q.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]9-1-1 (2018) [/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=<LINKTRAILER></link>
-<thumbnail>https://www.themoviedb.org/t/p/original/emMBo1uleVPg5ksWNX74FYDOWPa.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>CRIME E DRAMA</genre> 
+<title>[COLOR orange][B]TEMP 01 (2018) 10 EPs - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-TORRENTS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Deixe Ir[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]O Parente Mais Próximo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]O Pior Dia de Todos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Ponto de Origem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Destruidor de Corações[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Lua Cheia (Assustadora)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]O Carma É uma Vadia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Sem Saída[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Um Você Novo em Folha[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2kv7FYEwaYFQbFHuAxzOwsebLzf.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T01 - HD DUAL[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a227cd962b3f38917b7a6e7208cbd0489eb4dbb</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/yheHtZxBE8YC7ridKyjIX4Ma1iR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR orange][B]TEMP 02 (2018) 18 EPs - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Sob Pressão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]7.1[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]A Ajuda Não Virá[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Preso[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]Pessoas Horríveis[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Dosado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E07[COLOR yellow] -> [COLOR white]Assombrado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E08[COLOR yellow] -> [COLOR white]Simplesmente Buck[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E09[COLOR yellow] -> [COLOR white]Hen Começa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E10[COLOR yellow] -> [COLOR white]Feliz-Ex Festas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E11[COLOR yellow] -> [COLOR white]911XVZ[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E12[COLOR yellow] -> [COLOR white]Chimney Começa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E13[COLOR yellow] -> [COLOR white]Lutar ou Fugir[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E14[COLOR yellow] -> [COLOR white]Quebrado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E15[COLOR yellow] -> [COLOR white]Ocean’s 9-1-1[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E16[COLOR yellow] -> [COLOR white]Bobby Começa de Novo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E17[COLOR yellow] -> [COLOR white]Cuidado Com o Que Você Deseja[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T02E18[COLOR yellow] -> [COLOR white]Essa Vida que Escolhemos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E18.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/i8oD2KoqFfw08UwCDWHHtjyu84w.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T05 - HD DUAL[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 10 EPs[/B][/COLOR]</link>			
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WPN7UOAT6ALYNDEPVPD5R6MMXHCATJYG$nome=[COLOR orange][B]T02E01-02[COLOR yellow] -> [COLOR white]EPISODIOS 01-02[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6QH4UYCTVAWJC2XO4ZWBRZAUTPJHYXB3$nome=[COLOR orange][B]T02E03-04-05[COLOR yellow] -> [COLOR white]EPISODIOS 03-04-05 [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYSOKKV7V3EZWSB74LAZHD6JSIU6LT23$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]EPISODIO 06 [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5MTWUY2XVAW3GVMZPPUOD67FYK5SND4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]EPISODIO 07  [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AJQ3ZLZCKJO3ZCU3MQC6GEOHLWSB3ICO$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]EPISODIO 08 [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z2BVTFPUX2RTS73PUC6FJGFEPDKO3IJI$nome=[COLOR orange][B]T02E09-10[COLOR yellow] -> [COLOR white]EPISODIOS 09-10[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR orange][B]TEMP 03 (2019) 18 EPs - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Os Jovens de Hoje em Dia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Nadar ou Morrer[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Os Buscadores[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Gatilhos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Raiva[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Monstros[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Athena Começa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Mal Funcionamento[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Repercussões[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Espírito Natalino[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Aproveite o Dia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E11.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Tolos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E12.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Fixado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E13.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]A Tomada Do Despacho 9-1-1[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E14.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]Eddie Começa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E15.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]Aquele Que Partiu[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E16.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Impotente[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E17.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]Qual É O Próximo?[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E18.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/18icrGqD57R5i9XscEFB2iA4qt2.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T06 - HD LEG[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 06 - 03 EPs[/B][/COLOR]</link>			
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba251ae9b0497d57f07382a77677e1f653ab5375$nome=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Que os jogos comecem [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a82804e99938dea1573d453872a003d54a3d55f5$nome=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Bater e aprender [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ddc5c5028acb3e79071c55eaf84332354626ef3$nome=[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]O diabo que voce conhece [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24e28871a5a0e9c6413423901e9934306d6ef307$nome=[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Instintos Animais [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Invasao de domicilio [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Amanha [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E07[COLOR yellow] -> [COLOR white]Amaldisoado [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E08[COLOR yellow] -> [COLOR white]9-1-1, Qual e a sua fantasia? [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E09[COLOR yellow] -> [COLOR white]Sinais de aviso [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E10[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T06E11[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/CQBwNO8uGcOmt0phH7KoGUwpSL.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR orange][B]TEMP 04 (2021) 14 EPs - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-SERVER LS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]O Novo Anormal[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
+<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Sozinho Juntos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Futuro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]9-1-1, Qual É A Sua Reclamação?[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Buck Começa[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Jinx[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E06.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Lá Se Vai A Vizinhança[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E07.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Ponto De Ruptura[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E08.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Surpreendidos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E09.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Paternidade[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E10.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Primeiros A Responder[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E11.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E12[COLOR yellow] -> [COLOR white]Caça Ao Tesouro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E12.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E13[COLOR yellow] -> [COLOR white]Suspeita[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E13.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T04E14[COLOR yellow] -> [COLOR white]Sobreviventes[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E14.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bXtbOlAZYdiOGiBOtQoZMM82NY9.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T01 - HD DUAL[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Deixe Ir [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Parente Mais Proximo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Pior Dia de Todos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Ponto de Origem [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Destruidor de Corasoes [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Lua Cheia (Assustadora) [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O Carma e uma Vadia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Sem Saida [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Um Voce Novo em Folha [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/yheHtZxBE8YC7ridKyjIX4Ma1iR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR orange][B]TEMP 05 (2021) 18 EPs - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Pânico[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]Tempos Desesperados[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]Medidas Desesperadas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]Casa E Fora[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]Pressão Dos Colegas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Briga No Bloco De Celas 9-1-1[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Histórias De Fantasma[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E08[COLOR yellow] -> [COLOR white]Defender No Lugar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E09[COLOR yellow] -> [COLOR white]Passado É Prólogo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E10[COLOR yellow] -> [COLOR white]Enrolado Em Vermelho[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E11[COLOR yellow] -> [COLOR white]Para Fora Olhando Para Dentro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E12[COLOR yellow] -> [COLOR white]Boston[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E13[COLOR yellow] -> [COLOR white]Medo-O-Fobia[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E14[COLOR yellow] -> [COLOR white]Boa Sorte[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E15[COLOR yellow] -> [COLOR white]FOMO[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E16[COLOR yellow] -> [COLOR white]Socorro[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E17[COLOR yellow] -> [COLOR white]Complexo De Heróis[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T05E18[COLOR yellow] -> [COLOR white]Começando De Novo[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3srnnHY50xmss50SS7B2XJ1j31i.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T02 - HD DUAL[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 18 EPs[/B][/COLOR]</link>		
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Sob Pressao [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]7.1 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Ajuda Nao Vira [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Preso [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Pessoas Horriveis  [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Dosado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Assombrado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Simplesmente Buck [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E09.mkv$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Hen Comesa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E10.mkv$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white] Feliz-Ex Festas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E11.mkv$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]911 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E12.mkv$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Chimney Comesa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E13.mkv$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Lutar ou Fugir [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E14.mkv$nome=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Quebrado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E15.mkv$nome=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Oceans 9-1-1 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E16.mkv$nome=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]Bobby Comesa de Novo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E17.mkv$nome=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Cuidado Com o Que Voce Deseja [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T02/LS-T02E18.mkv$nome=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Essa Vida que Escolhemos [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/6hjPifKATF2R4GPmLOdywlBoLA3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
+<title>[COLOR orange][B]TEMP 06 (2022) 11 EPs - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T03 - HD DUAL[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T06E01[COLOR yellow] -> [COLOR white]Que Os Jogos Comecem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 18 EPs[/B][/COLOR]</link>		
+<item><title>[COLOR orange][B]LS-T06E02[COLOR yellow] -> [COLOR white]Bater E Aprender[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Os Jovens de Hoje em Dia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Nadar ou Morrer [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Os Buscadores [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Gatilhos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Raiva [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Monstros [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Athena Comesa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Mal Funcionamento [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Repercussoes [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Espirito Natalino [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E11.mp4$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Aproveite o Dia [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E12.mp4$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]Tolos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E13.mp4$nome=[COLOR orange][B]T03E13[COLOR yellow] -> [COLOR white]Fixado [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E14.mp4$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]A Tomada Do Despacho 9-1-1 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E15.mp4$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]Eddie Comesa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E16.mp4$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Aquele Que Partiu [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E17.mp4$nome=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Impotente [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T03/LS-T03E18.mp4$nome=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Qual e o Proximo? [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T06E03[COLOR yellow] -> [COLOR white]O Diabo Que Você Conhece[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<thumbnail>https://www.themoviedb.org/t/p/original/75JhJLBKdSYGwLDF1Jsa9vxA5gE.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T06E04[COLOR yellow] -> [COLOR white]Instintos Animais[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T04 - HD DUAL[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T06E05[COLOR yellow] -> [COLOR white]Invasão De Domicílio[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 14 EPs[/B][/COLOR]</link>		
+<item><title>[COLOR orange][B]LS-T06E06[COLOR yellow] -> [COLOR white]Amanhã[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E01.mp4$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]O Novo Anormal [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E02.mp4$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Sozinho Juntos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E03.mp4$nome=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Futuro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E04.mp4$nome=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]9-1-1- Qual e A Sua Reclamasao? [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E05.mp4$nome=[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Buck Comesa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E06.mp4$nome=[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Jinx [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E07.mp4$nome=[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]La Se Vai A Vizinhansa [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E08.mp4$nome=[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Ponto De Ruptura [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E09.mp4$nome=[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Surpreendidos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E10.mp4$nome=[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Paternidade [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E11.mp4$nome=[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Primeiros A Responder [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E12.mp4$nome=[COLOR orange][B]T04E12[COLOR yellow] -> [COLOR white]Casa Ao Tesouro [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E13.mp4$nome=[COLOR orange][B]T04E13[COLOR yellow] -> [COLOR white]Suspeita [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T04/LS-T04E14.mp4$nome=[COLOR orange][B]T04E14[COLOR yellow] -> [COLOR white]Sobreviventes [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T06E07[COLOR yellow] -> [COLOR white]Amaldiçoado[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<thumbnail>https://www.themoviedb.org/t/p/original/pBPGUjREqej3gYHHJy359rx3aiJ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T06E08[COLOR yellow] -> [COLOR white]Qual É A Sua Fantasia?[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]9-1-1 (2018) - T05 - HD DUAL[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T06E09[COLOR yellow] -> [COLOR white]Bandeira Vermelha[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 10 EPs[/B][/COLOR]</link>		
+<item><title>[COLOR orange][B]LS-T06E10[COLOR yellow] -> [COLOR white]Num Flash[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E01.mkv$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Panico [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E02.mkv$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Tempos Desesperados [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E03.mkv$nome=[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]Medidas Desesperadas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E04.mkv$nome=[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]Casa E Fora [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E05.mkv$nome=[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Pressao Dos Colegas [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E06.mkv$nome=[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Briga No Bloco De Celas 9-1-1 [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E07.mkv$nome=[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Historias De Fantasma [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E08.mkv$nome=[COLOR orange][B]T05E08[COLOR yellow] -> [COLOR white]Defender No Lugar [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E09.mkv$nome=[COLOR orange][B]T05E09[COLOR yellow] -> [COLOR white]Passado e Prologo [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T05/LS-T05E10.mkv$nome=[COLOR orange][B]T05E10[COLOR yellow] -> [COLOR white]Enrolado Em Vermelho [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T06E11[COLOR yellow] -> [COLOR white]Em Outra Vida[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
-<thumbnail>https://www.themoviedb.org/t/p/original/sGtLwdXLMtHkHD2yiXYV4XNCwln.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
-<info>9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.</info>
-<genre>CRIME E DRAMA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+item><title>[COLOR orange][B]LS-T06E12[COLOR yellow] -> [COLOR white]Recuperação[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
 
+item><title>[COLOR orange][B]LS-T06E13[COLOR yellow] -> [COLOR white]Novas Sensações[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E13.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+item><title>[COLOR orange][B]LS-T06E14[COLOR yellow] -> [COLOR white]Ansiedade de Desempenho[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E14.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+item><title>[COLOR orange][B]LS-T06E15[COLOR yellow] -> [COLOR white]Morte e Impostos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E15.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+item><title>[COLOR orange][B]LS-T06E16[COLOR yellow] -> [COLOR white]Achados & Perdidos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E16.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+item><title>[COLOR orange][B]LS-T06E17[COLOR yellow] -> [COLOR white]O Amor Está no Ar[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E17.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+item><title>[COLOR orange][B]LS-T06E18[COLOR yellow] -> [COLOR white]Corrente do Bem[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/9-CRDR/9.1.1./T06/LS-T06E18.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/yqZw6DWM63AXyp5KNw7gKwsfswr.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -234,8 +475,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -243,6 +483,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
