@@ -278,18 +278,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Columbo (1971-1990) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR white][B]Columbo (1971-1990) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C10-SRS-Columbo-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/i7qCggOObxxUy4LiebcigrMprWP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ePcyDTd1i0pAY9tu2XPVlMDMnr9.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]Columbo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1971 a 1990
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]10 TEMPs - 69 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Todos os crimes da série têm um ponto em comum: o criminoso monta um alibi que parece perfeito.
-[/COLOR]</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/6EIe2NLAVvwpMzXhg2KdUfwlb7T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/skWuseledUfSdS42GQaR5MPZpxS.jpg</fanart>
+<info>Assista a série Columbo. 
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]10 TEMPS - 69  EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 1971 a 1990[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -748,6 +744,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 116 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Dono de Kingstown (2021-2024) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C53-SRS-O.Dono.de.Kingstown.2021-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/aoZm9TTbxHfexecDoEiiYWvft3p.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x9dBxI9dbhFZiPtInAYZ8xOQDJ2.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Dono de Kingstown
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 30 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Abordando temas como o racismo sistêmico, corrupção e desigualdade, a série oferece um olhar severo em sua tentativa de trazer ordem e justiça a uma cidade que não possui nenhum dos dois.
 [/COLOR]</info>
 </channel>
 </channels>
