@@ -1138,7 +1138,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "V"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-			
+	
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vega$ (1978-1980) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C57-SRS-Vegas.1978-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/myE2ubvyqnX8ToL0KmC6TTBT7c4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4hNjNBBo7jak5Ps1FtXV7H0Czjd.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Vega$
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1978 a 1980
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 68 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O detetive particular Dan Tanna,dirigi pelas ruas de Las Vegas um Ford Thunderbird vermelho 1957, resolvendo crimes e tornando Las Vegas um lugar melhor para residentes e turistas.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vigilante Rodoviário (1962) - INCOMPLETA[/B][/COLOR]</name>
