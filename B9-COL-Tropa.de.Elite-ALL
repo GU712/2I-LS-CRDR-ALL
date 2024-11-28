@@ -1,15 +1,16 @@
 <item>				
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
 <link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tropa de Elite (2007) - FHD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]Tropa de Elite (2007) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/9CRDR-CL/Tropa.Elite/LS-2007.Tropa.de.Elite.1.FHD.DUB.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cVd5jWij8YERFxL88D1R9XVxwzy.jpg</fanart>
@@ -18,13 +19,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2007
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão "apaziguar" o Morro do Turano por um motivo que ele considera insensato.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar 
+uma das equipes que tem como missão "apaziguar" o Morro do Turano por um motivo que ele considera insensato.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Inimigo Agora é Outro (2010) - FHD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]O Inimigo Agora é Outro (2010) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/9CRDR-CL/Tropa.Elite/LS-2010.Tropa.de.Elite.2.FHD.DUB.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/8G7F938AHqBBLc5yJXPUJhSJzN5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kossSlZHf1REOhDkhRvrz9UgAnf.jpg</fanart>
@@ -33,37 +38,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2010
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Mais maduro, estratégico e solitário, o agora Coronel Nascimento faz o bope crescer e coloca o tráfico de drogas de joelho. Isto apenas para descobrir que na segurança pública do Rio de Janeiro nada é o que parece.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Mais maduro, estratégico e solitário, o agora Coronel Nascimento faz o bope crescer 
+e coloca o tráfico de drogas de joelho. Isto apenas para descobrir que na segurança pública do Rio de Janeiro nada é o que parece.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
