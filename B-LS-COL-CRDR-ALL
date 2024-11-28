@@ -151,16 +151,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Poderoso Chefão (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B2-COL-Poderoso.Chefao-ALL</externallink>
-<thumbnail>https://i.ibb.co/ZBKjNcN/COL-PCHEFAO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/wMScdcK/COL-PCHEFAO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]O Poderoso Chefão (03 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B002-COL-Poderoso.Chefao-ALL</externallink>
+<thumbnail>https://i.ibb.co/bRwyL3M/COL-PCHEFAO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/LCtMrW2/COL-PCHEFAO-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]O Poderoso Chefão
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
