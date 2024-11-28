@@ -31,8 +31,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Cyber (2015) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B4-SRS-CSI.Cyber-ALL</externallink>
+<name>[COLOR white][B]CSI: Cyber (2015) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D01B4-SRS-CSI.Cyber.2015-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iZuRBaleRrtJtHMY3ecA3xAWlOB.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -41,7 +41,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 31 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um departamento de criminalística forense, focado em crimes virtuais. A série é centrada em Avery Ryan, agente especial encarregada da Divisão de Crimes Virtuais do Quantico.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um departamento de criminalística forense, focado em crimes virtuais. A série é centrada 
+em Avery Ryan, agente especial encarregada da Divisão de Crimes Virtuais do Quantico.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
