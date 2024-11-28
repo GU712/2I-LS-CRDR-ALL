@@ -21,16 +21,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Aeroporto (04 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B7-COL-Aeroporto-ALL</externallink>
-<thumbnail>https://i.ibb.co/vLLb1c8/COL-AEROPORTO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/5cZBnR4/COL-AEROPORTO-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Aeroporto
+<name>[COLOR white][B]Aeroporto (4 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B006-COL-Aeroporto-ALL</externallink>
+<thumbnail>https://i.ibb.co/vL3SR34/COL-AEROPORTO-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/0FW3PfK/COL-AEROPORTO-FAN.png</fanart>
+<info>Assista aqui a coleção:
+[B]Aeroporto. 
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -230,15 +231,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tropa de Elite (02 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B9-COL-Tropa.de.Elite-ALL</externallink>
-<thumbnail>https://i.ibb.co/6rqndFp/COL-T-ELITE-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/8gPZHnQ/COL-T-ELITE-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Tropa de Elite (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B008-COL-Tropa.de.Elite-ALL</externallink>
+<thumbnail>https://i.ibb.co/j5tNSdT/COL-T-ELITE-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/KmB9WVD/COL-T-ELITE-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Tropa de Elite
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
 Não encontrou o que queria ? 
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -256,16 +257,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vivos - O Milagre dos Andes (03 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B8-COL-Vivos-ALL</externallink>
-<thumbnail>https://i.ibb.co/JvQkp9g/COL-VIVOS-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/grj68jZ/COL-VIVOS-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Vivos - O Milagre dos Andes (03 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/B007-COL-Vivos-ALL</externallink>
+<thumbnail>https://i.ibb.co/qg4fz90/COL-VIVOS-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/nP7PJTM/COL-VIVOS-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Vivos - O Milagre dos Andes
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
