@@ -13,8 +13,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Investigação Criminal (2000-2015) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B2-SRS-CSI.Las.Vegas-ALL</externallink>
+<name>[COLOR white][B]CSI: Investigação Criminal (2000-2015) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D01B2-SRS-CSI.Las.Vegas.2000-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/4LEty57u3sjh5HZ80lH4yez1SAd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AganKzamK1dnkqNoHwngavBVzor.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -23,7 +23,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2000 a 2015
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]16 TEMPs - 339 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um criminoso sempre deixa pistas. É o que mostra a série CSI: Crime Scene Investigation.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um criminoso sempre deixa pistas. É o que mostra a série CSI: Crime Scene Investigation.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -257,5 +260,6 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
