@@ -472,8 +472,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desaparecidos (2002-2008) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C35-SRS-Without.a.Trace-ALL</externallink>
+<name>[COLOR white][B]Desaparecidos (2002-2008) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C035-SRS-Without.a.Trace.2002-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/8DsmgYb4BaVkzCDybVuUbqCc21h.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1KclsHGiGNTkn11puPbMMnnpRRT.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -482,7 +482,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2002 a 2008
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 160 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Investigar os fatos após um crime ou um assassinato, significa entrar na mente do executor. Mas quando a vítima desaparece sem deixar rastros, a investigação é muito mais desafiadora. O trabalho requer a desconstrução da pessoa que está desaparecida e a construção de seus últimos momentos conhecidos.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Investigar os fatos após um crime ou um assassinato, significa entrar na mente do 
+executor. Mas quando a vítima desaparece sem deixar rastros, a investigação é muito mais desafiadora. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
