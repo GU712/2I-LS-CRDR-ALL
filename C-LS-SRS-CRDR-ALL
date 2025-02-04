@@ -328,7 +328,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Coroner (2019-2022) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Coroner (2019-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C14-SRS-Coroner-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/xpc6lb41T1ctPTPiYdLMITEiveE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7iyJEhCSaesEkmHfy0JLZpjxpjO.jpg</fanart>
@@ -338,7 +338,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 38 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma médica legista recém-contratada investiga uma série de misteriosas mortes em Toronto.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma médica legista recém-contratada investiga uma série de
+ misteriosas mortes em Toronto.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
