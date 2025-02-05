@@ -156,7 +156,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Arquivo Morto (2003-2009) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Arquivo Morto (2003-2009) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C21-SRS-Cold.Case-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cl36yfpaGw0emRdzPANsxqoiA4y.jpg</fanart>
@@ -166,7 +166,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2009
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 156 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A detetive Lilly Rush trabalha em casos arquivados na Polícia da Filadélfia, retomando investigações de assassinatos não solucionados.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A detetive Lilly Rush trabalha em casos arquivados na Polícia da Filadélfia, 
+retomando investigações de assassinatos não solucionados.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
