@@ -30,8 +30,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]9-1-1 (2018-2024) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C13-SRS-911-ALL</externallink>
+<name>[COLOR white][B]9-1-1 (2018-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C013-SRS-911.2018-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/vHq6VlLijLppMPFXhWo3hqjYY8q.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -40,7 +40,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 106 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são 
+incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
