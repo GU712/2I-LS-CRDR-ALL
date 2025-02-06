@@ -866,8 +866,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]O Mentalista (2008-2014) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C27-SRS-O.Mentalista-ALL</externallink>
+<name>[COLOR white][B]O Mentalista (2008-2014) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C027-SRS-O.Mentalista.2008-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xFzmU1h2aKPKobNGIgzZSRxCkwE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -876,7 +876,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008 a 2014
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 151 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. 
+Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
