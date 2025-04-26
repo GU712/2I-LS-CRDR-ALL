@@ -369,89 +369,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Investigação Criminal (2000-2015) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B2-SRS-CSI.Las.Vegas-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/4LEty57u3sjh5HZ80lH4yez1SAd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AganKzamK1dnkqNoHwngavBVzor.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]CSI: Investigação Criminal
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2000 a 2015
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]16 TEMPs - 339 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um criminoso sempre deixa pistas. É o que mostra a série CSI: Crime Scene Investigation.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Cyber (2015) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B4-SRS-CSI.Cyber-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iZuRBaleRrtJtHMY3ecA3xAWlOB.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]CSI: Cyber
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2015
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 31 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um departamento de criminalística forense, focado em crimes virtuais. A série é centrada em Avery Ryan, agente especial encarregada da Divisão de Crimes Virtuais do Quantico.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Miami (2002-2011) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B1-SRS-CSI.Miami-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/ihI0TbJj0Jykl2BDKHmoUpeTWjD.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2sjy8Tu8PJGFQI4Foz4682qk8Mw.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]CSI: Miami
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2002 a 2011
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]10 TEMPs - 242 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]<TEXTO>
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Nova York (2004-2012) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B3-SRS-CSI.Nova.York-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/wqHHb4II4RuIuiaV0UGCtJchqlF.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7Ll51O5WbDLI8PHke6f78KU1PPP.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]CSI: Nova York
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2004 a 2012
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 197 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Nova York, os detetives Mac Taylor e Jo Danville lideram uma equipe que usa alta tecnologia para resolver casos de homicídio. Eles sabem que as pessoas podem mentir, mas as evidências não.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]CSI: Vegas (2021-2024) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D1B5-SRS-CSI.Vegas-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/rUrZj1su654gz9neAiJs9z1y56Z.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/o4YDCS2Hb1aG1FqPJEXashxFWV8.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]CSI: Vegas
+<name>[COLOR white][B]C.S.I. (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/D01B-SRS-CSI-ALL</externallink>
+<thumbnail>https://i.ibb.co/W65WGhv/ESP-CSI-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/Hp5zq4N/ESP-CSI-FAN.png</fanart>
+<info>[COLOR white]Conheça o especial: 
+[B]C.S.I.
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 41 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Enfrentando uma ameaça existencial que pode derrubar o Laboratório Criminal, uma nova equipe brilhante de investigadores forenses deve receber de volta velhos amigos e implantar novas técnicas para preservar e servir à justiça em Sin City.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
