@@ -450,7 +450,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/12p2lBznSSnGFPs6Xiami2YnzQc.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]FBI
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 107 EPs
@@ -769,24 +769,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "O"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
-<channels>
-<channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]The Good Doctor: O Bom Doutor (2017) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C5-SRS-O.Bom.Doutor-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vEjPLgJ53X5P9CmoiTf2IQo26br.jpg</fanart>
-<info>[COLOR white]Assista aqui a série: 
-[B]O Bom Doutor
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2022
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 116 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -1125,6 +1107,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 17 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma detetive luta contra seus demônios pessoais enquanto tenta capturar um serial killer escondido sob a fachada de homem de família
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]The Good Doctor: O Bom Doutor (2017-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C005-SRS-O.Bom.Doutor.2017-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/v9WYk0nigzR9NAEjeSmfI6s4XA2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vEjPLgJ53X5P9CmoiTf2IQo26br.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Good Doctor: O Bom Doutor
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 116 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um jovem médico com autismo começa a trabalhar em um famoso hospital. 
+Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
