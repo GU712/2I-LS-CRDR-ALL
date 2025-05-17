@@ -444,17 +444,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]FBI (2018-2022) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C4-SRS-FBI-ALL</externallink>
+<name>[COLOR white][B]FBI (2018-2022) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C004-SRS-FBI.2018-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/cIaB4MiiyvOZzXSFAsVek7A1wfZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/12p2lBznSSnGFPs6Xiami2YnzQc.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Nomealvo
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[B]FBI
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 107 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a 
+cidade e o país a salvo.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
