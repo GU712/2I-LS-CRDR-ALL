@@ -772,17 +772,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]NCIS: Investigação Naval (2003-2024) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C22-SRS-NCIS.Investigasao.Naval.2003-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/9qxToguwcBkEhsneAOx6ze84o20.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/n4LjDhNFMHtCQ2Prjh0ZA1ioL6W.jpg</fanart>
+<name>[COLOR white][B]NCIS: Investigação Naval (2003-2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C022-SRS-NCIS.Investigasao.Naval.2003-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/abjNx4jqvaJn5UvsuLaBVRVndyJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4VuCtYBvZGq6Rk3gloigwlsTefE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]NCIS: Investigação Naval
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]21 TEMPs - 466 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Agente Leroy Jethro Gibbs lidera uma equipe de agentes especiais de elite que tem como missão investigar qualquer crime ligado à Marinha e aos Fuzileiros Navais.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]22 TEMPs - 481 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Sob o exemplar comando de Leroy Jethro Gibbs, uma equipe de agentes especiais 
+investiga crimes relacionados com a Marinha dos Estados Unidos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
