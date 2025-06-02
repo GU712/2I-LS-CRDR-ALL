@@ -861,17 +861,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Olive Kitteridge (2014) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C23-SRS-Olive.Kitteridge.2014-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/2tuB2kGd4is7tFMhcOTfEGB96lm.jpg</thumbnail>
+<name>[COLOR white][B]Olive Kitteridge (2014) - COMPLETA - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C023-SRS-Olive.Kitteridge.2014-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/txEVdfRT16eT97zpKXqWKrc5UXO.jpg</fanart>
-<info>[COLOR white]Assista aqui a mini-série: 
+<info>[COLOR white]Assista aqui a série: 
 [B]Olive Kitteridge
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 04 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Minissérie retrata os acontecimentos de uma pequena cidade americana ao longo de 25 anos, sob a perspectiva daprofessora Olive Kitteridge.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Minissérie retrata os acontecimentos de uma pequena cidade americana ao longo de 25 
+anos, sob a perspectiva da professora Olive Kitteridge.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
