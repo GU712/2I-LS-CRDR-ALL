@@ -1321,17 +1321,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS3[COLOR yellow] -> [COLOR white]Waco (2018) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C47-SRS-Waco.2018-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/14q24aBfJPrjumuWjKKA6Bwml2A.jpg</thumbnail>
+<name>[COLOR white][B]Waco (2018) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/C047-SRS-Waco.2018-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/48wAayV7X6XKvkM5cgTTmwYV81N.jpg</fanart>
-<info>[COLOR white]Assista aqui a mini-série: 
+<info>[COLOR white]Assista aqui a série: 
 [B]Waco
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 06 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Durante 51 dias, agentes do FBI e ATF buscam uma negociação com o líder religioso David Koresh e seus seguidores em Branch Davidians, em Waco, no Texas.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Durante 51 dias, agentes do FBI e ATF buscam uma negociação com o líder religioso 
+David Koresh e seus seguidores em Branch Davidians, em Waco, no Texas.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
