@@ -629,17 +629,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Lei & Ordem: Unidade de Vítimas Especiais (1999-2024) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C25-SRS-Law.and.Order.SVU-ALL</externallink>
+<name>[COLOR white][B]Lei & Ordem: Unidade de Vítimas Especiais (1999-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/refs/heads/main/D04B1-SRS-Unidade.de.Vitimas.Especiais-1999-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/asVCgrKySiGL7TozzcU4L1l1qQM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zllzmcs9eBGygR7zpIILjjc0GUn.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Unidade de Vítimas Especiais
+[B]Lei & Ordem: Unidade de Vítimas Especiais
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1999 a 2024
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]25 TEMPs - +500 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Detetives que fazem parte da Unidade de Vítimas Especiais da polícia de Nova York investigam crimes de natureza sexual, como estupros, em que a vítima sobrevive, e auxilia as autoridades na investigação.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A Unidade de Vítimas Especiais da polícia de Nova York investiga crimes de natureza 
+sexual, como estupros, em que a vítima sobrevive, e auxilia as autoridades na investigação.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
